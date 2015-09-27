@@ -1,0 +1,33 @@
+{
+  "name": "angular2-es6-seed",
+  "version": "0.0.1",
+  "description": "Badly opinionated angularjs2 seed project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m0ppers/angular2-es6-seed.git"
+  },
+  "keywords": [
+    "angularjs2",
+    "angular2",
+    "systemjs",
+    "seed",
+    "es6",
+    "n00b"
+  ],
+  "author": "Andreas Streichardt <andreas.streichardt@gmail.com>",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/m0ppers/angular2-es6-seed/issues"
+  },
+  "homepage": "https://github.com/m0ppers/angular2-es6-seed#readme",
+  "dependencies": {
+    "angular2": "^2.0.0-alpha.37",
+    "babel-core": "^5.8.25",
+    "es6-module-loader": "^0.17.8",
+    "systemjs": "^0.19.3"
+  }
+}
