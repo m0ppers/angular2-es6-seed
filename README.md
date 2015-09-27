@@ -14,9 +14,9 @@ open http://localhost:8080/
 
 ## TODO
 
-Tests
-Creating a build
-Fixing the system.js mess
+* Tests
+* Creating a build
+* Fixing the system.js mess
 
 ## Alternatives
 
